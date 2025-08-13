@@ -12,15 +12,15 @@ Selasa 12 Agustus 2025
 # Blank konfigurasi  
   Pada konfigurasi blank ini, kita bisa lihat bahwa:  
   **1. Interface WLAN Mati/Disable**  
-  ![a](diswlan.PNG)
+  ![a](diswlan.PNG)  
   **2. Addresses Kosong**  
     Jadi untuk login ke Mikrotik harus mengunakan MAC Address, karna IP Addressnya belum di set.  
-    ![b](addkosong.PNG)
+    ![b](addkosong.PNG)  
   **3. Firewall kosong**  
-  ![d](firekosong.PNG)
+  ![d](firekosong.PNG)  
   **4. Tidak ada interface bridge**  
-    ![v](diswlan.PNG)
-# Tambahan
+    ![v](diswlan.PNG)  
+# Tambahan  
 **Perbedaan Bridge dan Switch**  
   1. Bridge  
      Bridge dapat menggabungkan beberapa interface seolah-olah menjadi satu, yang artinya tidak ada perbedaan segmen. Karna ini bekerja lewat software, ini lebih membebankan ke prosesor Routernya.  
