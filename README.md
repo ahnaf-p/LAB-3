@@ -12,10 +12,14 @@ Selasa 12 Agustus 2025
 # Blank konfigurasi  
   Pada konfigurasi blank ini, kita bisa lihat bahwa:  
   **1. Interface WLAN Mati/Disable**  
+  ![a](diswlan.PNG)
   **2. Addresses Kosong**  
     Jadi untuk login ke Mikrotik harus mengunakan MAC Address, karna IP Addressnya belum di set.  
+    ![b](addkosong.PNG)
   **3. Firewall kosong**  
+  ![d](firekosong.PNG)
   **4. Tidak ada interface bridge**  
+    ![v](diswlan.PNG)
 # Tambahan
 **Perbedaan Bridge dan Switch**  
   1. Bridge  
